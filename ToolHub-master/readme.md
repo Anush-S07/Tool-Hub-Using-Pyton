@@ -48,5 +48,5 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 This project is licensed under the MIT License.
 
 ## Contact
-For any issues or inquiries, contact anirudhbhatka@gmail.com.
+For any issues or inquiries, contact anushmv2001@gmail.com.
 
